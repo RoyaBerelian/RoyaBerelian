@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RoyaBerelian](https://github.com/RoyaBerelian)
 
-- 💬 Ask me about **react,javascript,bootstrap,css3,html5**
+- 💬 Ask me about **react,javascript,bootstrap,tailwind,css3,html5**
 
 - 📫 How to reach me **RoyaBerelian@gmail.com**
 
